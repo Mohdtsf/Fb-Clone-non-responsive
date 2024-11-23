@@ -176,3 +176,16 @@
   background: #00a400;
   transition: 200ms;
 }
+
+.disclaimer {
+  padding: 10px 0px 40px 0px;
+  color: #000000;
+  font-size: 14px;
+  height: 40%;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+}
